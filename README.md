@@ -1,7 +1,6 @@
 # Sentiment Analysis using nltk
+nltk, which stands for Natural Language Toolkit, is a python module that helps us in analysing sentiments
 
-nltk is a python module that helps us in analysing sentiments\
-nltk stands for Natural Language Toolkit
 ## Installation
 
 Use the package manager [pip](https://pip.pypa.io/en/stable/) to install nltk.

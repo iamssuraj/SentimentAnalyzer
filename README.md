@@ -59,7 +59,11 @@ if __name__ == "__main__":
     main()
 ```
 This consists of user input and calling essential functions.
-## Contributing
-Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
-Please make sure to update tests as appropriate.
+## Samples (Input and Output)
+![01](https://user-images.githubusercontent.com/94124126/187417823-078bbb56-75ca-4d78-aaf4-9da04116e565.png)
+![02](https://user-images.githubusercontent.com/94124126/187417838-d3da51d5-0f6b-41a8-8c24-2d488738951c.png)
+![03](https://user-images.githubusercontent.com/94124126/187417850-bb702e85-2b44-4dad-b9d3-7cb3d8dc4e37.png)
+![04](https://user-images.githubusercontent.com/94124126/187417859-c0d35c77-643a-42ab-9df7-cf3b6773efca.png)
+![05](https://user-images.githubusercontent.com/94124126/187417868-68af4a00-c794-4346-b76d-f316696c4395.png)
+

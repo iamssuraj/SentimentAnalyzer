@@ -23,7 +23,7 @@ SentimentIntensityAnalyzer is a package that is present in nltk.sentiment. Here 
 ```python
     scores = analyzer.polarity_scores(input_text)
 ```
-scores is a dictionary, that has keys for various scores like nagative, positive and neutral. 'compound' is the key that we consider here
+scores is a dictionary, that has keys for various scores like negative, positive and neutral. 'compound' is the key that we consider here
 ```python
     sentiment_score = scores['compound']
     return sentiment_score
